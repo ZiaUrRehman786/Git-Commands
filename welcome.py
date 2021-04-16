@@ -1,1 +1,5 @@
 print("welcome to the party")
+print("welcome to the party")
+print("welcome to the party")
+print("welcome to the party")
+print("welcome to the party")
